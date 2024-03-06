@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan Bhatia</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **ReactJS and NodeJS**
+- 🔭 I’m currently working on **ReactJS and NestJS**
 
 - 🌱 I’m currently learning **DSA**
 
